@@ -1,0 +1,20 @@
+# Godot temporary folders
+.import/
+.export/
+export.cfg
+export_presets.cfg
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Python cache (if using)
+__pycache__/
+
+# Compiled files
+*.exe
+*.dll
+*.pyc
+
+# Godot lock files (optional)
+*.godot-lock
