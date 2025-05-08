@@ -1,5 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1746717459
+::res://::1746717710
 icon.svg::CompressedTexture2D/CompressedTexture2D::5101237154896520533::1746717263::1746717263::1::::<><><>0<>0<>5fb8ee20857122ed177914dc13e303ba<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-icon.tscn::PackedScene::3225113635626351118::1746717263::0::1::::<><><>0<>0<><>::uid://cexcvpaymn0cf::::res://icon.svg
+icon.tscn::PackedScene::3225113635626351118::1746717508::0::1::::<><><>0<>0<><>::uid://cexcvpaymn0cf::::res://icon.svg
+::res://assets/::1746717488
 ::res://breaker-game-project/::1746717263
+::res://sceans/::1746717496
+::res://scripts/::1746717504
