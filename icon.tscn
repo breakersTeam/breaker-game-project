@@ -3,5 +3,6 @@
 [ext_resource type="Texture2D" uid="uid://cexcvpaymn0cf" path="res://icon.svg" id="1_tr34o"]
 
 [node name="Icon" type="Sprite2D"]
-position = Vector2(332, 185)
+position = Vector2(608.5, 339)
+scale = Vector2(5.32031, 3.40625)
 texture = ExtResource("1_tr34o")
