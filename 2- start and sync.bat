@@ -11,11 +11,7 @@ git status
 
 git diff --quiet
 IF ERRORLEVEL 1 (
-    echo === Committing changes... ===
-    git add .
-    set /p commitMsg=Enter your commit message: 
-    git commit -m "%commitMsg%"
-    git push origin main
+    echo === open now "3- upload update.bat" ===
 ) ELSE (
     echo === No changes to commit ===
 )
